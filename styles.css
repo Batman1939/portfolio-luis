@@ -28,5 +28,20 @@ guyLaughing{
     position: relative;
 }
 .info{
-    font-color:black;
+    color:black;
+}
+#twitterBird{
+    display:block;
+    width:100px;
+    height:100;
+    border-style:solid;
+}
+#twitter{
+    display:flex;
+    justify-content:space-around;
+}
+#instagram{
+    display:flex;
+    justify-content:space-around;
+    
 }
